@@ -1,0 +1,1 @@
+# pytest_structure_example
